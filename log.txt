@@ -1,0 +1,941 @@
+Python 3.9.5 (tags/v3.9.5:0a7dcbd, May  3 2021, 17:27:52) [MSC v.1928 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\joey\Desktop\New folder (2)\long_entry_bot\trading_bot_nw\newtradingbot.py
+Connecting To The Binance Servers
+Connected To The Binance Server
+The Bot Has Been Started IN CLI MODE
+
+The Current Price is 1.312 and The Order Point is 0
+
+run please[1, 2, 3, 4, 5, 6, 7, 8]
+
+Took An Initial Trade At 1.312True
+
+The Prices Can Either Go Up Or Down From Here[]
+
+The Bot Has Taken An Entryhello world
+
+The Bot Has A CoolDown For 2 Seconds
+>>> 
+The Pair is [1.312, 1.3094]
+
+The Current Price is 1.312 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+We Have Closed The Trade
+We Reset The Values
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.312 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.312 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.312 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.312 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.312 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.312 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3117 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3113 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3113 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3114 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3114 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3114 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3116 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3116 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3114 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3114 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3115 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3114 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3114 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3114 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3114 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3114 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3114 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3114 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3113 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3113 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3113 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3114 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3113 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3113 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3113 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3113 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.311 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.311 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.311 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.311 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.311 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.311 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.311 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.311 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.311 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3118 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3118 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3118 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3114 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3106 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3106 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3106 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3106 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3106 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3106 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3106 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3098 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3098 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3091 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+.2 percent shifted order point is 1.3117
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3091 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3091 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3091 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3091 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3091 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3091 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3095 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3095 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3096 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3092 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+.2 percent shifted order point is 1.3118
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3092 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3092 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3092 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3094 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3094 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3093 and The Order Point is 1.312
+
+
+.2 percent shifted order point is 1.3119
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3093 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3095 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3095 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3095 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3095 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3096 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3096 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3096 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3096 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3096 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3096 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3098 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3098 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3098 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3098 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3098 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3098 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3098 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3097 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3097 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3097 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3097 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3097 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3097 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3097 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3097 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3097 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3097 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3097 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3096 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3096 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3096 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3096 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3092 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3092 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3092 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3092 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3092 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3093 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3093 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3093 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3093 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3093 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3098 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3098 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3098 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3094 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.31 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3101 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3101 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3101 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3101 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3102 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3102 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+The Current Price is 1.3101 and The Order Point is 1.312
+
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.31 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.31 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.31 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3099 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3099 and The Order Point is 1.312
+Prices Have Gone Below The Order Point
+
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+Prices Have Gone Below The Order Point
+
+The Current Price is 1.3099 and The Order Point is 1.312
+
+Prices Have Gone Below The Order Point
